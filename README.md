@@ -234,12 +234,12 @@ Possible extensions include:
 
 ## 17. Authors
 
-Student Name: ____________________
+Student Name: Bhavesh Dhidaria
 
-Registration Number: ____________________
+Registration Number: 24BAC10021
 
 Course: Fundamentals of AI and ML
 
-University: ____________________
+University: VIT Bhopal University
 
 Academic Year: 2026-27
